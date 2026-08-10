@@ -1,20 +1,11 @@
 <div align="center">
 
-<!-- Top Wavy Color-Changing Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=000000,003333,00FFFF&animation=twinkling" width="100%" alt="Header Wave"/>
+<!-- Top Wavy Color-Changing Header with Text Inside -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeAuto&customColorList=000000,003333,00FFFF&animation=twinkling&text=Hey,%20I'm%20Prathyaksh&fontSize=40&fontColor=FFFFFF&desc=Backend%20Developer%20•%20Automation%20Enthusiast%20•%20Problem%20Solver&descSize=15&descColor=00FFFF&section=header" width="100%" alt="Header Wave"/>
 
 <br>
 
-<a href="https://github.com/BootedRoot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false" alt="Typing SVG" />
-</a>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false" alt="Cyan Subtitle" />
-
-<br>
-
+<!-- Tagline (Continuous typing loop) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80" alt="White Subtitle" />
 
 <br><br>
@@ -50,11 +41,11 @@ Focus    : Backend & Automation
 Learning : PHP & Sys Infra
 Open_to  : Collaborations
 ~~~
-
-      <br>
-      🔧 Building custom APIs & workflows<br>
-      🐛 Debugging complex systems<br>
-      💡 Exploring Python & PHP tools<br>
+<ul style="list-style-type:none; padding-left: 0;">
+<li>🔧 Building custom APIs & workflows</li>
+<li>🐛 Debugging complex systems</li>
+<li>💡 Exploring Python & PHP tools</li>
+</ul>
     </td>
   </tr>
 </table>
@@ -92,16 +83,12 @@ Open_to  : Collaborations
 
 <div align="center">
   <a href="https://github.com/BootedRoot">
-    <img src="https://github-readme-stats.vercel.app/api?username=BootedRoot&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/BootedRoot">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BootedRoot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
 <br>
 
-<!-- HERE IS THE EXACT ACTIVITY GRAPH FROM YOUR SCREENSHOT -->
 <div align="center">
   <a href="https://github.com/BootedRoot">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=BootedRoot&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
@@ -122,5 +109,5 @@ Open_to  : Collaborations
 
 <div align="center">
 <!-- Bottom Wavy Color-Changing Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=000000,003333,00FFFF&animation=twinkling&section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&customColorList=000000,003333,00FFFF&animation=twinkling&section=footer" width="100%" alt="Footer Wave"/>
 </div>
