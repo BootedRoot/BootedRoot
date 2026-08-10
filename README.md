@@ -1,18 +1,16 @@
 <div align="center">
-  <!-- Typing Animation -->
+  <!-- Typing Animation (Fixed apostrophe encoding: %27) -->
   <a href="https://github.com/BootedRoot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Prathyaksh" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh" alt="Typing SVG" />
   </a>
   
   <br>
   
-  <!-- Cyan Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=600&lines=Backend+Developer+•+Automation+Enthusiast+•+Problem+Solver" alt="Cyan Subtitle" />
-  
-  <br>
+  <!-- Bulletproof standard text subtitles so they never break -->
+  <h3>Backend Developer • Automation Enthusiast • Problem Solver</h3>
+  <p><b>Turning ideas into real-world applications 🚀</b></p>
 
-  <!-- White Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real-world+applications+🚀" alt="White Subtitle" />
+  <br>
 
   <p>
     <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
@@ -86,7 +84,7 @@ open_to  : "Collaborations"
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line">
 </p>
 
-<!-- GitHub Stats & Snake Game (At the end) -->
+<!-- GitHub Stats & Snake Game -->
 <h3 align="center">📊 GitHub Stats &amp; Contributions</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BootedRoot&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400" alt="BootedRoot's GitHub stats" height="192px"/>
