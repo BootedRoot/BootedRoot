@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Top Wavy Color-Changing Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeAuto&customColorList=000000,003333,00FFFF&animation=twinkling&section=header" width="100%" alt="Header Wave"/>
+<!-- Top Wavy Header (Starts black, slowly shifts colors using hue animation) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=000000,000000,00FFFF,001122&animation=hue&section=header" width="100%" alt="Header Wave"/>
 
 <br>
 
@@ -12,13 +12,13 @@
 
 <br>
 
-<!-- Static Neon Cyan -->
+<!-- Static Neon Cyan Subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false" alt="Cyan Subtitle" />
 
 <br>
 
 <!-- Tagline (Continuous typing loop) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80" alt="White Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80" alt="Typing Subtitle" />
 
 <br><br>
 
@@ -121,5 +121,5 @@ Open_to  : Collaborations
 
 <div align="center">
 <!-- Bottom Wavy Color-Changing Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&customColorList=000000,003333,00FFFF&animation=twinkling&section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=000000,000000,00FFFF,001122&animation=hue&section=footer" width="100%" alt="Footer Wave"/>
 </div>
