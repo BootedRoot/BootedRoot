@@ -1,16 +1,18 @@
 <div align="center">
-  <!-- Typing Animation (Fixed apostrophe encoding: %27) -->
+  <!-- Typing Animation (Neon White) -->
   <a href="https://github.com/BootedRoot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh" alt="Typing SVG" />
   </a>
   
   <br>
   
-  <!-- Bulletproof standard text subtitles so they never break -->
-  <h3>Backend Developer • Automation Enthusiast • Problem Solver</h3>
-  <p><b>Turning ideas into real-world applications 🚀</b></p>
-
+  <!-- Roles (Neon Cyan, safely URL-encoded bullets) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver" alt="Cyan Subtitle" />
+  
   <br>
+
+  <!-- Tagline (Neon White, safely URL-encoded emoji) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80" alt="White Subtitle" />
 
   <p>
     <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
