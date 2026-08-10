@@ -1,17 +1,17 @@
 <div align="center">
-  <!-- Typing Animation (Neon White - Animates normally) -->
+  <!-- Typing Animation (Neon White) -->
   <a href="https://github.com/BootedRoot">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh" alt="Typing SVG" />
   </a>
   
   <br>
   
-  <!-- Roles (Neon Cyan - Static/Instant appearance) -->
+  <!-- Roles (Neon Cyan) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false" alt="Cyan Subtitle" />
   
   <br>
 
-  <!-- Tagline (Neon White - Static/Instant appearance) -->
+  <!-- Tagline (Neon White) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80&duration=1&repeat=false" alt="White Subtitle" />
 
   <p>
@@ -27,10 +27,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line">
 </p>
 
-<!-- Two Column Layout -->
+<!-- Two Column Layout (Using markdown="1" to allow colored code blocks inside HTML) -->
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="60%" valign="top" style="border: none;">
+    <td width="60%" valign="top" style="border: none;" markdown="1">
       <h3>👨‍💻 About Me</h3>
       <p>I’m a passionate developer who enjoys building practical projects, learning new technologies, and solving problems through code.</p>
       <p>I’m continuously improving my skills in <b>backend development</b> and <b>system infrastructure</b>, exploring different tools across <b>Python</b> and <b>PHP</b>, and turning ideas into real-world applications like custom APIs and automation workflows.</p>
@@ -38,68 +38,12 @@
       <br>
       <blockquote><i>"I don't just write code — I solve problems."</i></blockquote>
     </td>
-    <td width="40%" valign="top" style="border: none;">
+    <td width="40%" valign="top" style="border: none;" markdown="1">
       <h3>⚡ Profile</h3>
-<pre>
+
+```yaml
 name     : "Prathyaksh Shetty"
 handle   : "BootedRoot"
 focus    : "Backend & Automation"
 learning : "PHP & Sys Infra"
 open_to  : "Collaborations"
-</pre>
-      <br>
-      <ul style="list-style-type:none; padding-left: 0;">
-        <li>🔧 Building custom APIs & workflows</li>
-        <li>🐛 Debugging complex systems</li>
-        <li>💡 Exploring Python & PHP tools</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<!-- Animated line separator -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line">
-</p>
-
-<!-- Tech Stack -->
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js" alt="Languages"/>
-  </a>
-</p>
-
-<p align="center"><b>Frameworks • Infrastructure • Tools</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,docker,vscode" alt="Tools"/>
-  </a>
-</p>
-
-<br>
-
-<!-- Animated line separator -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line">
-</p>
-
-<!-- GitHub Stats & Snake Game -->
-<h3 align="center">📊 GitHub Stats & Contributions</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BootedRoot&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="BootedRoot's GitHub stats" height="192px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BootedRoot&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="BootedRoot's Streak" height="192px"/>
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Cyan Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BootedRoot/BootedRoot/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BootedRoot/BootedRoot/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BootedRoot/BootedRoot/output/github-snake.svg">
-  </picture>
-</div>
