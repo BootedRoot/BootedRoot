@@ -81,12 +81,6 @@ Open_to  : Collaborations
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare" alt="Tools"/>
   </a>
 </p>
-<p align="center">
-  <!-- Converted to logo-only format without text to match the square layout -->
-  <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/-%20-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux" />
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line">
