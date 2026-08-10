@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Top Wavy Header (Starts black, slowly shifts colors using hue animation) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=000000,000000,00FFFF,001122&animation=hue&section=header" width="100%" alt="Header Wave"/>
+<!-- Top Wavy Header (Forced to start pitch black, slowly shifts cyan) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=000000,000000,002244,00FFFF&animation=hue&section=header" width="100%" alt="Header Wave"/>
 
 <br>
 
@@ -17,8 +17,8 @@
 
 <br>
 
-<!-- Tagline (Continuous typing loop) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80" alt="Typing Subtitle" />
+<!-- Tagline (Continuous typing loop with multiple professional phrases) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning,+always+building+%F0%9F%92%BB" alt="Typing Subtitle" />
 
 <br><br>
 
@@ -82,9 +82,10 @@ Open_to  : Collaborations
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Termux" />
+  <!-- Converted to logo-only format without text to match the square layout -->
+  <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/-%20-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux" />
 </p>
 
 <p align="center">
@@ -121,5 +122,5 @@ Open_to  : Collaborations
 
 <div align="center">
 <!-- Bottom Wavy Color-Changing Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=000000,000000,00FFFF,001122&animation=hue&section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=000000,000000,002244,00FFFF&animation=hue&section=footer" width="100%" alt="Footer Wave"/>
 </div>
