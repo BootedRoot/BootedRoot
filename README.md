@@ -1,7 +1,19 @@
 <div align="center">
 
-<!-- Top Wavy Color-Changing Header with Text Inside -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeAuto&customColorList=000000,003333,00FFFF&animation=twinkling&text=Hey,%20I'm%20Prathyaksh&fontSize=40&fontColor=FFFFFF&desc=Backend%20Developer%20•%20Automation%20Enthusiast%20•%20Problem%20Solver&descSize=15&descColor=00FFFF&section=header" width="100%" alt="Header Wave"/>
+<!-- Top Wavy Color-Changing Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeAuto&customColorList=000000,003333,00FFFF&animation=twinkling&section=header" width="100%" alt="Header Wave"/>
+
+<br>
+
+<!-- Typing Animation (Types once and stops) -->
+<a href="https://github.com/BootedRoot">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false" alt="Typing SVG" />
+</a>
+
+<br>
+
+<!-- Static Neon Cyan -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false" alt="Cyan Subtitle" />
 
 <br>
 
