@@ -1,18 +1,18 @@
 <div align="center">
-  <!-- Typing Animation (Neon White) -->
+  <!-- Types once and stops (repeat=false) -->
   <a href="https://github.com/BootedRoot">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false" alt="Typing SVG" />
   </a>
   
   <br>
   
-  <!-- Roles (Neon Cyan) -->
+  <!-- Static Neon Cyan -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false" alt="Cyan Subtitle" />
   
   <br>
 
-  <!-- Tagline (Neon White) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80&duration=1&repeat=false" alt="White Subtitle" />
+  <!-- Loops continuously (Standard behavior) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80" alt="White Subtitle" />
 
   <p>
     <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -27,10 +27,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line">
 </p>
 
-<!-- Two Column Layout (Using markdown="1" to allow colored code blocks inside HTML) -->
+<!-- Two Column Layout (DO NOT REMOVE THE BLANK LINES INSIDE THE TABLE) -->
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="60%" valign="top" style="border: none;" markdown="1">
+    <td width="60%" valign="top" style="border: none;">
       <h3>👨‍💻 About Me</h3>
       <p>I’m a passionate developer who enjoys building practical projects, learning new technologies, and solving problems through code.</p>
       <p>I’m continuously improving my skills in <b>backend development</b> and <b>system infrastructure</b>, exploring different tools across <b>Python</b> and <b>PHP</b>, and turning ideas into real-world applications like custom APIs and automation workflows.</p>
@@ -38,12 +38,12 @@
       <br>
       <blockquote><i>"I don't just write code — I solve problems."</i></blockquote>
     </td>
-    <td width="40%" valign="top" style="border: none;" markdown="1">
+    <td width="40%" valign="top" style="border: none;">
       <h3>⚡ Profile</h3>
 
 ```yaml
-name     : "Prathyaksh Shetty"
-handle   : "BootedRoot"
-focus    : "Backend & Automation"
-learning : "PHP & Sys Infra"
-open_to  : "Collaborations"
+Name     : Prathyaksh Shetty
+Handle   : BootedRoot
+Focus    : Backend & Automation
+Learning : PHP & Sys Infra
+Open_to  : Collaborations
