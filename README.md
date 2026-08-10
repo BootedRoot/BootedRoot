@@ -1,30 +1,30 @@
 <div align="center">
   <!-- Types once and stops -->
-  <a href="[https://github.com/BootedRoot](https://github.com/BootedRoot)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false)" alt="Typing SVG" />
+  <a href="https://github.com/BootedRoot">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=35&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey%2C+I%27m+Prathyaksh&amp;repeat=false" alt="Typing SVG" />
   </a>
   
   <br>
   
   <!-- Static Neon Cyan -->
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false)" alt="Cyan Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;color=00FFFF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&amp;duration=1&amp;repeat=false" alt="Cyan Subtitle" />
   
   <br>
 
   <!-- Loops continuously -->
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80)" alt="White Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80" alt="White Subtitle" />
 
   <p>
-    <a href="YOUR_LINKEDIN_URL"><img src="[https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
-    <a href="[https://github.com/BootedRoot](https://github.com/BootedRoot)"><img src="[https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub"/></a>
-    <a href="[https://github.com/BootedRoot?tab=followers](https://github.com/BootedRoot?tab=followers)"><img src="[https://img.shields.io/github/followers/BootedRoot?style=for-the-badge&color=2196F3&label=FOLLOWERS](https://img.shields.io/github/followers/BootedRoot?style=for-the-badge&color=2196F3&label=FOLLOWERS)" alt="Followers"/></a>
-    <img src="[https://komarev.com/ghpvc/?username=BootedRoot&style=for-the-badge&color=2196F3&label=VIEWS](https://komarev.com/ghpvc/?username=BootedRoot&style=for-the-badge&color=2196F3&label=VIEWS)" alt="Profile Views"/>
+    <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/BootedRoot"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
+    <a href="https://github.com/BootedRoot?tab=followers"><img src="https://img.shields.io/github/followers/BootedRoot?style=for-the-badge&amp;color=2196F3&amp;label=FOLLOWERS" alt="Followers"/></a>
+    <img src="https://komarev.com/ghpvc/?username=BootedRoot&amp;style=for-the-badge&amp;color=2196F3&amp;label=VIEWS" alt="Profile Views"/>
   </p>
 </div>
 
 <!-- Animated line separator -->
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="100%" alt="animated line">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
 </p>
 
 <!-- Two Column Layout -->
@@ -40,19 +40,19 @@
     </td>
     <td width="40%" valign="top" style="border: none;">
       <h3>⚡ Profile</h3>
-<!-- Reverted to <pre> so GitHub doesn't break the layout -->
+<!-- Using <pre> to keep the layout from breaking GitHub's table parser -->
 <pre>
 Name     : Prathyaksh Shetty
 Handle   : BootedRoot
-Focus    : Backend & Automation
-Learning : PHP & Sys Infra
+Focus    : Backend &amp; Automation
+Learning : PHP &amp; Sys Infra
 Open_to  : Collaborations
 </pre>
       <br>
       <ul style="list-style-type:none; padding-left: 0;">
-        <li>🔧 Building custom APIs & workflows</li>
+        <li>🔧 Building custom APIs &amp; workflows</li>
         <li>🐛 Debugging complex systems</li>
-        <li>💡 Exploring Python & PHP tools</li>
+        <li>💡 Exploring Python &amp; PHP tools</li>
       </ul>
     </td>
   </tr>
@@ -60,7 +60,7 @@ Open_to  : Collaborations
 
 <!-- Animated line separator -->
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="100%" alt="animated line">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
 </p>
 
 <!-- Tech Stack -->
@@ -68,15 +68,15 @@ Open_to  : Collaborations
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-  <a href="[https://skillicons.dev](https://skillicons.dev)">
-    <img src="[https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js](https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js)" alt="Languages"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js" alt="Languages" />
   </a>
 </p>
 
 <p align="center"><b>Frameworks • Infrastructure • Tools</b></p>
 <p align="center">
-  <a href="[https://skillicons.dev](https://skillicons.dev)">
-    <img src="[https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,mysql,mongodb,vercel,azure,cloudflare](https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,mysql,mongodb,vercel,azure,cloudflare)" alt="Tools"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,mysql,mongodb,vercel,azure,cloudflare" alt="Tools" />
   </a>
 </p>
 
@@ -84,23 +84,19 @@ Open_to  : Collaborations
 
 <!-- Animated line separator -->
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="100%" alt="animated line">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="animated line" />
 </p>
 
 <!-- GitHub Stats & Snake Game -->
-<h3 align="center">📊 GitHub Stats & Contributions</h3>
+<h3 align="center">📊 GitHub Stats &amp; Contributions</h3>
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=BootedRoot&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400](https://github-readme-stats.vercel.app/api?username=BootedRoot&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)" alt="BootedRoot's GitHub stats" height="192px"/>
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=BootedRoot&theme=tokyonight&hide_border=true&cache_seconds=86400](https://github-readme-streak-stats.herokuapp.com/?user=BootedRoot&theme=tokyonight&hide_border=true&cache_seconds=86400)" alt="BootedRoot's Streak" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BootedRoot&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400" alt="BootedRoot's GitHub stats" height="192px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BootedRoot&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400" alt="BootedRoot's Streak" height="192px" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Cyan Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/BootedRoot/BootedRoot/output/github-snake-dark.svg](https://raw.githubusercontent.com/BootedRoot/BootedRoot/output/github-snake-dark.svg)">
-    <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/BootedRoot/BootedRoot/output/github-snake.svg](https://raw.githubusercontent.com/BootedRoot/BootedRoot/output/github-snake.svg)">
-    <img alt="github contribution grid snake animation" src="[https://raw.githubusercontent.com/BootedRoot/BootedRoot/output/github-snake.svg](https://raw.githubusercontent.com/BootedRoot/BootedRoot/output/github-snake.svg)">
-  </picture>
+  <!-- Simplified img tag for Snake to prevent GitHub from stripping it -->
+  <img src="https://raw.githubusercontent.com/BootedRoot/BootedRoot/output/github-snake.svg" alt="github contribution grid snake animation" />
 </div>
