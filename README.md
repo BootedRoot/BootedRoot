@@ -1,38 +1,60 @@
-<!-- Header with Animated Typing -->
 <div align="center">
-  <a href="https://github.com/BootedRoot">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Prathyaksh+Shetty+👋;Backend+Developer;System+Infrastructure+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,25,30&height=180&section=header&text=Hey,%20I'm%20Prathyaksh%20Shetty&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </div>
 
-<br/>
-
-<!-- Profile Section -->
 <div align="center">
-  <h2>⚡ Profile</h2>
+  <p>Backend Developer & System Infrastructure Enthusiast 🚀</p>
+</div>
+
+<div align="center">
   <p>
-    <b>📛 Name:</b> Prathyaksh Shetty <br/>
-    <b>👤 Handle:</b> BootedRoot <br/>
-    <b>⚙️ Focus:</b> Backend Development & System Infrastructure <br/>
-    <b>🚀 Interests:</b> Custom APIs, Automation Workflows, and Debugging
+    <a href="https://github.com/BootedRoot">
+      <img src="https://img.shields.io/badge/GITHUB-BootedRoot-181717?style=flat&logo=github" alt="GitHub" />
+    </a>
   </p>
 </div>
 
 <br/>
 
-<!-- About Me Section -->
-<div align="center">
-  <h2>💡 About Me</h2>
-  <p align="center" style="max-width: 600px; margin: 0 auto;">
-    I’m a passionate developer who enjoys building practical projects, learning new technologies, and solving problems through code. I’m continuously improving my skills in backend development and system infrastructure, exploring different tools across Python and PHP, and turning ideas into real-world applications like custom APIs and automation workflows. I enjoy experimenting, debugging, and understanding how complex systems work under the hood. I’m always open to learning, collaborating, and contributing to projects that help me grow as a developer.
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 About Me</h3>
+      <p>I’m a passionate developer who enjoys building practical projects, learning new technologies, and solving problems through code.</p>
+      <p>I’m continuously improving my skills in backend development and system infrastructure, exploring different tools across Python and PHP, and turning ideas into real-world applications like custom APIs and automation workflows.</p>
+      <p>I enjoy experimenting, debugging, and understanding how complex systems work under the hood. I’m always open to learning, collaborating, and contributing to projects that help me grow as a developer.</p>
+      <br/>
+      <blockquote>
+        <i>"I don't just build demos — I build systems."</i>
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Profile</h3>
+      <br/>
+      <p>
+        <code>name</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Prathyaksh Shetty<br/>
+        <code>handle</code> &nbsp;&nbsp;&nbsp;: BootedRoot<br/>
+        <code>focus</code> &nbsp;&nbsp;&nbsp;&nbsp;: Backend & Infrastructure<br/>
+        <code>currently</code> : Exploring Python & PHP workflows<br/>
+        <code>open_to</code> &nbsp;&nbsp;: Collaborations & Backend Projects
+      </p>
+      <br/>
+      <ul>
+        <li>🚀 Building practical applications and robust backend logic</li>
+        <li>⚙️ Experimenting with system infrastructure and custom APIs</li>
+        <li>🔍 Debugging and understanding how complex systems work</li>
+        <li>💬 Ask me about Python, PHP, Java, C/C++, C#, and HTML</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- Tech Stack with Badges -->
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
+  <br/>
+  <h3>Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -46,19 +68,17 @@
 
 <br/>
 
-<!-- GitHub Stats & Analytics (Animated Graphs) -->
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
+  <h2>📊 GitHub Stats</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=BootedRoot&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=ffffff" alt="BootedRoot's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BootedRoot&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=3776AB&text_color=ffffff" alt="BootedRoot's Stats" />
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BootedRoot&theme=transparent&hide_border=true&title_color=3776AB&text_color=ffffff&sideNums=ffffff&sideLabels=ffffff&ring=3776AB&fire=3776AB&currStreakLabel=ffffff&currStreakNum=ffffff" alt="BootedRoot's Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BootedRoot&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&sideNums=ffffff&sideLabels=ffffff&ring=3776AB&fire=3776AB" alt="BootedRoot's Streak" />
   </p>
 </div>
 
 <br/>
 
-<!-- Snake Animation -->
 <div align="center">
   <h2>🐍 Contributions Graph</h2>
   <picture>
