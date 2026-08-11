@@ -6,7 +6,7 @@
 <br>
 
 <!-- Typing Animation (Types once and stops) -->
-<a href="https://github.com/BootedRoot">
+<a href="https://github.com/RootedHost">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false" alt="Typing SVG" />
 </a>
 
@@ -23,9 +23,9 @@
 <br><br>
 
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/BootedRoot"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/BootedRoot?tab=followers"><img src="https://img.shields.io/github/followers/BootedRoot?style=for-the-badge&color=2196F3&label=FOLLOWERS" alt="Followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=BootedRoot&style=for-the-badge&color=2196F3&label=VIEWS" alt="Profile Views"/>
+<a href="https://github.com/RootedHost"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/RootedHost?tab=followers"><img src="https://img.shields.io/github/followers/RootedHost?style=for-the-badge&color=2196F3&label=FOLLOWERS" alt="Followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=RootedHost&style=for-the-badge&color=2196F3&label=VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -48,7 +48,7 @@
 
 ~~~yaml
 Name     : Prathyaksh Shetty
-Handle   : BootedRoot
+Handle   : RootedHost
 Focus    : Backend & Automation
 Learning : PHP & Sys Infra
 Open_to  : Collaborations
@@ -89,16 +89,16 @@ Open_to  : Collaborations
 <h3 align="center">📊 GitHub Stats & Contributions</h3>
 
 <div align="center">
-  <a href="https://github.com/BootedRoot">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BootedRoot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/RootedHost">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RootedHost&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/BootedRoot">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BootedRoot&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <a href="https://github.com/RootedHost">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RootedHost&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
   </a>
 </div>
 
@@ -106,9 +106,9 @@ Open_to  : Collaborations
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BootedRoot/BootedRoot/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BootedRoot/BootedRoot/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BootedRoot/BootedRoot/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake.svg">
   </picture>
 </div>
 
