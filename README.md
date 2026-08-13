@@ -90,7 +90,7 @@ Open_to  : Collaborations
 
 <div align="center">
   <a href="https://github.com/RootedHost">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RootedHost&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=RootedHost&theme=neon" alt="GitHub Streak" /></a>
   </a>
 </div>
 
