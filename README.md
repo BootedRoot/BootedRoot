@@ -1,24 +1,36 @@
 <div align="center">
 
-<!-- Top Wavy Header (Forced to start pitch black, slowly shifts cyan) -->
+<!-- Top Wavy Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=000000,000000,002244,00FFFF&animation=hue&section=header" width="100%" alt="Header Wave"/>
 
 <br>
 
-<!-- Typing Animation (Types once and stops, forced black background) -->
+<!-- Typing Animation (Adaptive) -->
 <a href="https://github.com/RootedHost">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false" alt="Typing SVG" />
+  </picture>
 </a>
 
 <br>
 
-<!-- Static Neon Cyan Subtitle (Forced black background) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&background=000000&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false" alt="Cyan Subtitle" />
+<!-- Static Subtitle (Adaptive) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=000000&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false" alt="Cyan Subtitle" />
+</picture>
 
 <br>
 
-<!-- Tagline (Continuous typing loop, forced black background) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&background=000000&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning,+always+building+%F0%9F%92%BB" alt="Typing Subtitle" />
+<!-- Tagline (Adaptive) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning,+always+building+%F0%9F%92%BB">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=000000&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning,+always+building+%F0%9F%92%BB">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning,+always+building+%F0%9F%92%BB" alt="Typing Subtitle" />
+</picture>
 
 <br><br>
 
@@ -71,16 +83,24 @@ Open_to  : Collaborations
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Forced dark theme for the icons -->
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js&theme=dark" alt="Languages"/>
+    <!-- Adaptive Theme for the icons -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js&theme=light">
+      <img src="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js&theme=dark" alt="Languages"/>
+    </picture>
   </a>
 </p>
 
 <p align="center"><b>Frameworks • Infrastructure • Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Forced dark theme for the icons -->
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare&theme=dark" alt="Tools"/>
+    <!-- Adaptive Theme for the icons -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare&theme=light">
+      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare&theme=dark" alt="Tools"/>
+    </picture>
   </a>
 </p>
 
@@ -92,8 +112,12 @@ Open_to  : Collaborations
 
 <div align="center">
   <a href="https://github.com/RootedHost">
-    <!-- Updated to demolab API with neon theme -->
-    <img src="https://streak-stats.demolab.com?user=RootedHost&theme=neon&hide_border=true" alt="GitHub Streak" />
+    <!-- Adaptive GitHub Streak -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RootedHost&theme=neon&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=RootedHost&theme=default&hide_border=true">
+      <img src="https://streak-stats.demolab.com?user=RootedHost&theme=neon&hide_border=true" alt="GitHub Streak" />
+    </picture>
   </a>
 </div>
 
@@ -101,7 +125,12 @@ Open_to  : Collaborations
 
 <div align="center">
   <a href="https://github.com/RootedHost">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RootedHost&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+    <!-- Adaptive Contribution Graph -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RootedHost&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RootedHost&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&hide_border=true">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=RootedHost&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+    </picture>
   </a>
 </div>
 
@@ -109,7 +138,7 @@ Open_to  : Collaborations
 
 <div align="center">
   <picture>
-    <!-- Updated paths to RootedHost -->
+    <!-- Adaptive Snake Animation -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake.svg">
