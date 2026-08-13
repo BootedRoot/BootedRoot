@@ -5,20 +5,20 @@
 
 <br>
 
-<!-- Typing Animation (Types once and stops) -->
+<!-- Typing Animation (Types once and stops, forced black background) -->
 <a href="https://github.com/RootedHost">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+Prathyaksh&repeat=false" alt="Typing SVG" />
 </a>
 
 <br>
 
-<!-- Static Neon Cyan Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false" alt="Cyan Subtitle" />
+<!-- Static Neon Cyan Subtitle (Forced black background) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=00FFFF&background=000000&center=true&vCenter=true&width=700&lines=Backend+Developer+%E2%80%A2+Automation+Enthusiast+%E2%80%A2+Problem+Solver&duration=1&repeat=false" alt="Cyan Subtitle" />
 
 <br>
 
-<!-- Tagline (Continuous typing loop with multiple professional phrases) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning,+always+building+%F0%9F%92%BB" alt="Typing Subtitle" />
+<!-- Tagline (Continuous typing loop, forced black background) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&background=000000&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning,+always+building+%F0%9F%92%BB" alt="Typing Subtitle" />
 
 <br><br>
 
@@ -71,14 +71,16 @@ Open_to  : Collaborations
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js" alt="Languages"/>
+    <!-- Forced dark theme for the icons -->
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js&theme=dark" alt="Languages"/>
   </a>
 </p>
 
 <p align="center"><b>Frameworks • Infrastructure • Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare" alt="Tools"/>
+    <!-- Forced dark theme for the icons -->
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare&theme=dark" alt="Tools"/>
   </a>
 </p>
 
@@ -90,7 +92,8 @@ Open_to  : Collaborations
 
 <div align="center">
   <a href="https://github.com/RootedHost">
-    <img src="https://streak-stats.demolab.com?user=RootedHost&theme=neon" alt="GitHub Streak" /></a>
+    <!-- Updated to demolab API with neon theme -->
+    <img src="https://streak-stats.demolab.com?user=RootedHost&theme=neon&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -106,6 +109,7 @@ Open_to  : Collaborations
 
 <div align="center">
   <picture>
+    <!-- Updated paths to RootedHost -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake.svg">
