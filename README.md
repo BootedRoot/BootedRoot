@@ -35,7 +35,7 @@
 <br><br>
 
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/RootedHost"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://instagram.com/Demonz.og"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://github.com/RootedHost?tab=followers"><img src="https://img.shields.io/github/followers/RootedHost?style=for-the-badge&color=2196F3&label=FOLLOWERS" alt="Followers"/></a>
 <img src="https://komarev.com/ghpvc/?username=RootedHost&style=for-the-badge&color=2196F3&label=VIEWS" alt="Profile Views"/>
 
