@@ -27,9 +27,9 @@
 
 <!-- Tagline (Adaptive) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning,+always+building+%F0%9F%92%BB">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=000000&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning,+always+building+%F0%9F%92%BB">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning,+always+building+%F0%9F%92%BB" alt="Typing Subtitle" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%92%BB">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=000000&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%92%BB">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=FFFFFF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real-world+applications+%F0%9F%9A%80;Architecting+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Building+efficient+automation+workflows+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%92%BB" alt="Typing Subtitle" />
 </picture>
 
 <br><br>
@@ -83,10 +83,9 @@ Open_to  : Collaborations
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Adaptive Theme for the icons -->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Chtml%2Ccss%2Cphp%2Ccpp%2Ccs%2Cjs&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Chtml%2Ccss%2Cphp%2Ccpp%2Ccs%2Cjs&theme=light">
       <img src="https://skillicons.dev/icons?i=py,java,html,css,php,cpp,cs,js&theme=dark" alt="Languages"/>
     </picture>
   </a>
@@ -95,10 +94,9 @@ Open_to  : Collaborations
 <p align="center"><b>Frameworks • Infrastructure • Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Adaptive Theme for the icons -->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode%2Candroidstudio%2Cmysql%2Cmongodb%2Cvercel%2Cazure%2Ccloudflare&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode%2Candroidstudio%2Cmysql%2Cmongodb%2Cvercel%2Cazure%2Ccloudflare&theme=light">
       <img src="https://skillicons.dev/icons?i=vscode,androidstudio,mysql,mongodb,vercel,azure,cloudflare&theme=dark" alt="Tools"/>
     </picture>
   </a>
@@ -112,7 +110,6 @@ Open_to  : Collaborations
 
 <div align="center">
   <a href="https://github.com/RootedHost">
-    <!-- Adaptive GitHub Streak -->
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RootedHost&theme=neon&hide_border=true">
       <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=RootedHost&theme=default&hide_border=true">
@@ -125,7 +122,6 @@ Open_to  : Collaborations
 
 <div align="center">
   <a href="https://github.com/RootedHost">
-    <!-- Adaptive Contribution Graph -->
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RootedHost&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=RootedHost&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&hide_border=true">
@@ -138,7 +134,6 @@ Open_to  : Collaborations
 
 <div align="center">
   <picture>
-    <!-- Adaptive Snake Animation -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RootedHost/RootedHost/output/github-snake.svg">
